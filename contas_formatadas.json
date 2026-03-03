@@ -1,0 +1,367 @@
+[
+  {
+    "codigo": "448929",
+    "descricao": "EPI - Equip. de Proteção Individual",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de equipamentos de proteção individual para colaboradores."
+  },
+  {
+    "codigo": "448930",
+    "descricao": "Uniformes e Identificação Pessoal",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de uniformes de colaboradores. Caso sejam concedidos uniforme a terceiros, deverá ser lançado na conta 449887(Uniformes - Outros Custos)"
+  },
+  {
+    "codigo": "448949",
+    "descricao": "Treinamento",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de treinamento (custo da palestra, custo do curso, alimentação, condução, passagens áreas, rodoviárias, hotel, quando em treinamento..)"
+  },
+  {
+    "codigo": "449070",
+    "descricao": "Lubrificantes",
+    "detalhamento": "Nesta conta são registrados os custos de lubrificantes e derivados utilizados nos veículos utilizados como aplicação direta."
+  },
+  {
+    "codigo": "449090",
+    "descricao": "Combustíveis",
+    "detalhamento": "Nesta conta são registrados os custos de combustíveis utilizados nos veículos que utilizados como aplicação direta. ."
+  },
+  {
+    "codigo": "449130",
+    "descricao": "Pneus Novos",
+    "detalhamento": "Nesta conta são registrados os custos de pneus novos que utilizados como aplicação direta. . "
+  },
+  {
+    "codigo": "449150",
+    "descricao": "Pneus recauchutados",
+    "detalhamento": "Nesta conta são registrados os custos de pneus recauchutados que utilizados como aplicação direta. . "
+  },
+  {
+    "codigo": "449151",
+    "descricao": "Componentes Pneus Recondicionados",
+    "detalhamento": "Nesta conta são registrados os custos de componentes recondicionados de pneus. Utilizado apenas pelo WIP-SAP"
+  },
+  {
+    "codigo": "449170",
+    "descricao": "Câmaras e protetores",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de câmaras de ar e protetores que utilizados como aplicação direta. "
+  },
+  {
+    "codigo": "449210",
+    "descricao": "Materiais de Carroceria",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de materiais para carrocerias (farol, para brisa, retrovisor...) que utilizados como aplicação direta. "
+  },
+  {
+    "codigo": "449211",
+    "descricao": "Conservação de Bens Automotores",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de manutenção de veículos de apoio"
+  },
+  {
+    "codigo": "449250",
+    "descricao": "Peças e Acessórios",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de peças e acessórios que utilizados como aplicação direta. "
+  },
+  {
+    "codigo": "449251",
+    "descricao": "Componentes Recondicionados",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de componentes recondicionados de peças e acessórios utilizados como aplicação direta."
+  },
+  {
+    "codigo": "449252",
+    "descricao": "Acessórios Veículos Novos",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de acessórios aplicados nos veículos novos que utilizados como aplicação direta."
+  },
+  {
+    "codigo": "449253",
+    "descricao": "Peças Recuperadas",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de componentes recondicionados utilizados como aplicação direta ."
+  },
+  {
+    "codigo": "449290",
+    "descricao": "IPVA",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de IPVA apropriado mensalmente. "
+  },
+  {
+    "codigo": "449331",
+    "descricao": "Custos c/ despachante",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de despachantes."
+  },
+  {
+    "codigo": "449350",
+    "descricao": "Seguros de Veículos",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de apolice de seguros de veículos apropriado mensalmente e outros seguros não apropriados, Quando anuais lançar na conta 11.60.04 "
+  },
+  {
+    "codigo": "449430",
+    "descricao": "Pedagio/Estacionamento",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de pedágio/estacionamentos."
+  },
+  {
+    "codigo": "449450",
+    "descricao": "Outros Materiais",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de outros materiais que não se enquadram em contas contábeis específicas (EX.: Lixeiras, bocal descartável para bafômetro)"
+  },
+  {
+    "codigo": "449452",
+    "descricao": "Rastreamento de Frota",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de rastreamento por satélite, rádio ou qualquer outro meio de rastreamento da frota de veículos."
+  },
+  {
+    "codigo": "449454",
+    "descricao": "Serviço Borracharia Externa",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de pequenos reparos em pneus feitos em borracharia externa."
+  },
+  {
+    "codigo": "449457",
+    "descricao": "Material Uso em Oficina",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de materiais utilizados em oficinas (ferramentas, oxigênio, acetileno, chapas...) utilizados como aplicação direta."
+  },
+  {
+    "codigo": "449460",
+    "descricao": "Serviços Manutenção/Funilaria/Pintura",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de manutenção de veículos operacionais"
+  },
+  {
+    "codigo": "449461",
+    "descricao": "Combustíveis Veículos de Apoio",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de combustível com veículos de apoio."
+  },
+  {
+    "codigo": "449531",
+    "descricao": "Aluguéis de Imóveis PF",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de Aluguéis de pessoa física."
+  },
+  {
+    "codigo": "449551",
+    "descricao": "Aluguel de Veículos e Equip. Operacionais",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de aluguéis de veículos, empilhadeiras e outros equipamentos de movimentação de cargas(retroescavadeira, prancha)."
+  },
+  {
+    "codigo": "449554",
+    "descricao": "Outros Alugueis",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de outros aluguéis não classificados nas contas de aluguéis específicas."
+  },
+  {
+    "codigo": "449612",
+    "descricao": "Indeniz Desp c/Sinistro",
+    "detalhamento": "Nesta conta são registrados os valores dos custos decorrentes de indenização de sinistros (custos com acidentados, remédios, reparos nos veículos, compra de itens para indenização, pagamento de custas processuais decorrente do sinistro)."
+  },
+  {
+    "codigo": "449672",
+    "descricao": "Consultoria e Assessoria - PF",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de serviços com consultorias contratadas (qualidade, contabilidade, advocacia) de Pessoa Física."
+  },
+  {
+    "codigo": "449673",
+    "descricao": "INSS Autonomos - PF",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de pagamento de INSS de serviços prestados por terceiros de Pessoa Física."
+  },
+  {
+    "codigo": "449674",
+    "descricao": "Serviços de Terceiro/PF",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de serviços prestados por pessoas físicas, sem vínculo empregatício com a empresa (RPS ou RPA)."
+  },
+  {
+    "codigo": "449694",
+    "descricao": "Serviços de Terceiros/PJ",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de serviços prestados por pessoas Jurídicas, que não tenham enquadramento em outra conta."
+  },
+  {
+    "codigo": "449695",
+    "descricao": "Serviço de Vigilancia/Segurança - PJ",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de serviços de vigilância de Pessoa Jurídica."
+  },
+  {
+    "codigo": "449696",
+    "descricao": "Consultoria/Assessoria",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de serviços com consultorias contratadas (qualidade, contabilidade, advocacia, peritos) de Pessoa Jurídica."
+  },
+  {
+    "codigo": "449697",
+    "descricao": "Serviços de Limpeza - PJ",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de serviços de limpeza predial e de veículos, inclusive lavagem de veículos."
+  },
+  {
+    "codigo": "449698",
+    "descricao": "Fretes Pessoa Jurídica",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de fretes pagos para transporte de bens e combustíveis."
+  },
+  {
+    "codigo": "449700",
+    "descricao": "Comissões",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de comissões pagos a terceiros"
+  },
+  {
+    "codigo": "449712",
+    "descricao": "Energia",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de conta faturas de energia."
+  },
+  {
+    "codigo": "449752",
+    "descricao": "Correios",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de postagens e correios."
+  },
+  {
+    "codigo": "449753",
+    "descricao": "Custo c/Comunicação",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de telefonia fixa e móvel e outros custos com comunicação. "
+  },
+  {
+    "codigo": "449772",
+    "descricao": "Custos c/Viagens",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de viagens de colaboradores a serviço da empresa (hotéis, passagens, refeições, condução...)"
+  },
+  {
+    "codigo": "449773",
+    "descricao": "Refeicoes e Lanches",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de refeições e lanches a serviço da empresa que não se enquadrem nas contas de PAT."
+  },
+  {
+    "codigo": "449774",
+    "descricao": "Hospedagem",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de hospedagem"
+  },
+  {
+    "codigo": "449775",
+    "descricao": "Passagens/deslocamento",
+    "detalhamento": "Nesta conta são registrados os valores dos custos com passagens e deslocamentos"
+  },
+  {
+    "codigo": "449792",
+    "descricao": "Impressos Mat Expediente",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de impressos em geral e materiais de expediente (lápis, caneta, borracha, carimbos, papéis para impressão, cartuchos, disco de tacógrafo...)"
+  },
+  {
+    "codigo": "449794",
+    "descricao": "Custos c/ Informática",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de manutenção em computadores e impressoras, Consultorias na área de informática, custos com cabeamentos, pontos de rede, assinaturas de Internet, bem como a compra de peças para os mesmos (Teclado, mouse, memória, Drive de CD, estabilizadores, Pen Drive, etc)"
+  },
+  {
+    "codigo": "449812",
+    "descricao": "Conservacao de Bens Imóveis/Moveis",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de reformas e manutenção de bens e imóveis em geral (máquinas, móveis e utensílios, prédios administrativos e operacionais, etc)."
+  },
+  {
+    "codigo": "449852",
+    "descricao": "Custos Indedutíveis",
+    "detalhamento": "Nesta conta são registrados os valores dos custos, cuja a documentação não tenha a validade fiscal, ou pagamentos que não tenham documentação fiscal hábil e não podem ser aproveitados para cálculo de Imposto de Renda."
+  },
+  {
+    "codigo": "449853",
+    "descricao": "Multas de Trânsito",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de multas de trânsito."
+  },
+  {
+    "codigo": "449854",
+    "descricao": "Doações",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de doações efetuadas pela empresa."
+  },
+  {
+    "codigo": "449857",
+    "descricao": "Perdas na desvalorização de Estoque",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de perdas na desvalorização de estoque."
+  },
+  {
+    "codigo": "449858",
+    "descricao": "Multas de Transportes",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de multas de transporte."
+  },
+  {
+    "codigo": "449876",
+    "descricao": "Conducao",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de quilometragens de veículos particulares a serviço da empresa, recibos de táxi e passagens urbanas bem como os gastos com estacionamentos."
+  },
+  {
+    "codigo": "449877",
+    "descricao": "Custas e Emolumentos",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de reconhecimento de firma, autenticação de documentos, enfim todas as despesas de cartório."
+  },
+  {
+    "codigo": "449878",
+    "descricao": "Custo c/Xerox",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de cópias xerox tiradas fora da empresa."
+  },
+  {
+    "codigo": "449879",
+    "descricao": "Jornais Revistas e publicações",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de assinaturas de jornais e revistas, materiais de legislações, livros tecnicos e boletins informativos."
+  },
+  {
+    "codigo": "449881",
+    "descricao": "Gastos c/ Festejos / Recreação",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de festas de confraternização e cesta de natal para colaboradores."
+  },
+  {
+    "codigo": "449884",
+    "descricao": "Promocoes e Eventos",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de participações em eventos e promoções de eventos com o intuito de divulgar o nome da empresa."
+  },
+  {
+    "codigo": "449885",
+    "descricao": "Propaganda",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de órgãos de comunicação (rádio, TV, revistas, fotolitos e patrocínios) com divulgação do nome da empresa."
+  },
+  {
+    "codigo": "449886",
+    "descricao": "Seguros",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de seguros de imóveis, cargas e frota."
+  },
+  {
+    "codigo": "449887",
+    "descricao": "Uniformes",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de uniformes doados a terceiros que não sejam colaboradores da empresa. Ex: Agregados (carreteiros)."
+  },
+  {
+    "codigo": "449889",
+    "descricao": "Perdas no Recebimento de Títulos",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de baixa de títulos incobráveis seguindo a regra regulamentada pelo Imposto de Renda. Antes da baixa precisa de análise da contabilidade."
+  },
+  {
+    "codigo": "449890",
+    "descricao": "Perdas Diversas",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de perdas dedutíveis (roubos que tenham BO, baixa de bens do ativo por quebra ou obsolescência)."
+  },
+  {
+    "codigo": "449891",
+    "descricao": "Materiais de Limpeza",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de materiais de limpeza."
+  },
+  {
+    "codigo": "449892",
+    "descricao": "Taxa de imigração",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de taxas de imigração."
+  },
+  {
+    "codigo": "449893",
+    "descricao": "Multas",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de multas contratuais."
+  },
+  {
+    "codigo": "449895",
+    "descricao": "Condomínio",
+    "detalhamento": "Nesta conta são registrados os valores dos custos com Condomínio."
+  },
+  {
+    "codigo": "449896",
+    "descricao": "Indenizações Contratuais",
+    "detalhamento": "Nesta conta são registrados os valores dos custos de indenizações contratuais."
+  },
+  {
+    "codigo": "449902",
+    "descricao": "Materiais de Limpeza produto - quimico",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de materias de limpeza produtos - quimícos utilizados como aplicação direta."
+  },
+  {
+    "codigo": "449904",
+    "descricao": "Custo de manutenção - Bens Locados",
+    "detalhamento": "Nesta conta são registrados os valores referentes aos custos de operações intercompany (entre empresas)."
+  },
+  {
+    "codigo": "449905",
+    "descricao": "Cantina",
+    "detalhamento": "Nesta conta são registrados os valores do custos de materiais destinados na utilização de serviço de copa/cozinha. (Ex. Café, açúcar, leite) . Lembrando que não devem ser lançados n/ prod. destinados ao PAT e aos veículos (Kit de bordo)."
+  },
+  {
+    "codigo": "449906",
+    "descricao": "Material de Protecão do Trabalho",
+    "detalhamento": "Nesta conta são registrados os valores dos custos material de proteção do trabalho."
+  }
+]
