@@ -24,7 +24,11 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- 2. CONFIGURAÇÃO DE AMBIENTE ---
-os.environ["OPENAI_API_KEY"] = "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"
+if "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+else:
+    st.error("Chave API não configurada. Adicione OPENAI_API_KEY nos Secrets do Streamlit.")
+    st.stop()
 
 # --- 3. LÓGICA DE DADOS ---
 @st.cache_resource
@@ -102,3 +106,4 @@ if prompt := st.chat_input("Ex: Posso aplicar crédito em determinado serviço/c
             st.markdown(full_response)
             
     st.session_state.messages.append({"role": "assistant", "content": full_response})
+
