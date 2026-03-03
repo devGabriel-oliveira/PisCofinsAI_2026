@@ -82,12 +82,12 @@ if prompt := st.chat_input("Ex: Posso aplicar crédito em determinado serviço/c
             # PROMPT AJUSTADO PARA RESPOSTAS CURTAS E SEM JSON
             prompt_final = f"""
             Você é um Especialista Fiscal e Expert apenas em PIS e COFINS de uma empresa de transporte e logítica.
-            Todos os serviços ou compra de materiais que são relacionados a transporte e logística são considerados como serviços de transporte para fins de PIS e COFINS.
+            Todos os serviços ou compra de materiais que são relacionados a transporte e logística, manutenção e veículos, serviços que são considerados como essenciais para que toda operação ocorre é passível de PIS e COFINS.
             Responda de forma breve mas com fundamentação com base no créditos_pis_cofins.pdf à pergunta usando o CONTEXTO abaixo.
 
             REGRAS DE FORMATAÇÃO:
-            1. Para o crédito (PDF): Diga apenas se é permitido ou não é permitido, e o porquê em uma frase com base no documento créditos_pis_cofins.pdf.
-            2. Para a conta (JSON): Forneça APENAS o número do código e o nome da conta (Ex: 444444 - Nome da Conta). 
+            1. Para o crédito (PDF): Diga apenas se é permitido ou não é permitido, e o porquê com uma fundamentação legal do arquivo em PDF.
+            2. Para a conta (JSON): Forneça apenas uma conta com seu número do código e o nome da conta (Ex: 444444 - Nome da Conta). 
             3. PROIBIDO retornar blocos de código ou formato JSON.
 
             CONTEXTO:
